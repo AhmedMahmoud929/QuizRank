@@ -21,6 +21,7 @@
 body {
   height: 100vh;
   overflow: hidden;
+  background-color : var(--c-light);
   background-image: url("../imgs/start-bg.png");
   background-size: cover;
   display: flex;
