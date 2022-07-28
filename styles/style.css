@@ -494,7 +494,7 @@ body {
   font-weight: 600;
   font-size: 1.5rem;
   position: relative;
-  padding-left: 30px;
+  padding: 0px 30px;
   padding-bottom: 10px;
   border-bottom: 2px solid #030a2546;
 }
