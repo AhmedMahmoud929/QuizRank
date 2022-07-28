@@ -33,7 +33,7 @@ function switchTo(n = 0) {
 }
 // Change background body function
 function changeBgTo(s = "") {
-  document.body.style.backgroundImage = `url(../imgs/${s}-bg.png)`;
+  document.body.style.backgroundImage = `url(./imgs/${s}-bg.png)`;
 }
 
 // [ 1 ] ===> Start Page
