@@ -89,27 +89,27 @@
      },
      {
           "title" : "How you can get the input \"n\" from user in c++ ?",
-          "answer_1" : "get>>x;",
-          "answer_2" : "cin>>x;",
+          "answer_1" : "get&gt;&gt;x;",
+          "answer_2" : "cin&gt;&gt;x;",
           "answer_3" : "let x = prompt()",
           "answer_4" : "None of this",
-          "right_answer" : "cin>>x;"
+          "right_answer" : "cin&gt;&gt;x;"
      },
      {
           "title" : "Which of the following is the correct syntax to add the header file in the C++ program ?",
-          "answer_1" : "#include <cmath>",
+          "answer_1" : "#include &lt;cmath&gt;",
           "answer_2" : "#include \"cmath\"",
-          "answer_3" : "<include> \"cmth\"",
+          "answer_3" : "&lt;include&gt; \"cmth\"",
           "answer_4" : "None of this",
-          "right_answer" : "#include <cmath>"
+          "right_answer" : "#include &lt;cmath&gt;"
      },
      {
           "title" : "Which of the following is the correct syntax to print the message in C++ language ?",
-          "answer_1" : "out <<\"Hello world!\";",
-          "answer_2" : "cout <<\"Hello world!\";",
-          "answer_3" : "print <<\"Hello world!\";",
-          "answer_4" : "Cout <<\"Hello world!\";",
-          "right_answer" : "cout <<\"Hello world!\";"
+          "answer_1" : "out &lt;&lt;\"Hello world!\";",
+          "answer_2" : "cout &lt;&lt;\"Hello world!\";",
+          "answer_3" : "print &lt;&lt;\"Hello world!\";",
+          "answer_4" : "Cout &lt;&lt;\"Hello world!\";",
+          "right_answer" : "cout &lt;&lt;\"Hello world!\";"
      },
      {
           "title" : "Which of the following is the address operator ?",
